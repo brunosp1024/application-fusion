@@ -1,8 +1,6 @@
-asgiref @ file:///home/brunosp/.cache/pypoetry/artifacts/3f/98/4d/6a033cf821463ecb706293158c40bcde94048c2f69eee1ba0354d1b42f/asgiref-3.4.1-py3-none-any.whl
 astroid==2.8.4
 dj-database-url==0.5.0
 dj-static==0.0.6
-Django @ file:///home/brunosp/.cache/pypoetry/artifacts/90/b5/d2/27ce83111ecd3a0d3dfa5b5b6637045eb29a2517df4b360fd73660db5d/Django-3.2.8-py3-none-any.whl
 django-adminlte2==0.4.3
 django-stdimage==5.3.0
 gunicorn==20.1.0
@@ -13,8 +11,6 @@ Pillow==8.4.0
 platformdirs==2.4.0
 psycopg2-binary==2.9.1
 pylint==2.11.1
-pytz @ file:///home/brunosp/.cache/pypoetry/artifacts/07/c1/43/6f22a533e7bc5e277f10b4c6033e936ff7bbeb6464e5f27dbfb6c641d7/pytz-2021.3-py2.py3-none-any.whl
-sqlparse @ file:///home/brunosp/.cache/pypoetry/artifacts/bd/30/d0/940567a036c6ea57abe7098acbd123f8c8985ccc27713365ae80d28f89/sqlparse-0.4.2-py3-none-any.whl
 static3==0.7.0
 toml==0.10.2
 typing-extensions==3.10.0.2
