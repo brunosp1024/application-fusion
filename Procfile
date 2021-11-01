@@ -1,1 +1,1 @@
-web: gunicorn globalneti.wsgi –log-file -
+web: gunicorn fusion.wsgi --log-file -

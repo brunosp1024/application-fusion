@@ -1,12 +1,11 @@
 [tool.poetry]
-name = "globalneti"
+name = "fusion"
 version = "0.1.0"
 description = ""
 authors = ["Bruno Salvador <brunosalvador145@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-Django = "^3.2.8"
 
 [tool.poetry.dev-dependencies]
 

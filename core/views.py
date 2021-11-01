@@ -14,7 +14,7 @@ class IndexView(FormView):
     def get_context_data(self, **kwargs): 
         context = super(IndexView, self).get_context_data(**kwargs) # Recupera todo o contexto passado em algum momento.
         context['servicos'] = Servico.objects.order_by('?').all() # Retorna todos, ordenando aleatoriamente.
-        context['funcionarios'] = Funcionario.objects.all()
+        context['funcionarios'] = Funcionario.objects.order_by('?').all()
         return context
 
     # Valida o formulário. Executa depois de submeter.
